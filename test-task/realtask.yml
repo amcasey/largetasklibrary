@@ -1,2 +1,2 @@
 name: test-task
-command: 'echo hello'
+command: 'type ./folderlink/task.yaml'
