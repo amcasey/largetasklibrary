@@ -1,2 +1,2 @@
 name: clone-winget-configurations-exp
-command: './main.ps1'
+command: './link.ps1'
